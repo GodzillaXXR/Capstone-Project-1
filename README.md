@@ -1,2 +1,2 @@
 # Capstone-Project-1
-Create my sample resume only using html code
+Created my sample resume only using html code
